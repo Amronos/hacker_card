@@ -14,6 +14,7 @@ Slack username: @amronos
 ## BOM
 
 | Part Name | Quantity |
+| --- | --- |
 | CL10A106KP8NNNC | 1 |
 | STM32C011F6P6 | 1 |
 | CL05B104KO5NNNC | 3 |
